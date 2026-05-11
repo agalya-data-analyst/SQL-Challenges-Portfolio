@@ -7,11 +7,11 @@ Welcome to my SQL Portfolio! This repository documents my intensive 7-day journe
 
 | Day | Database | Focus Area | Key Concepts |
 |:---:|:---|:---|:---|
-| 1-2 | **Hospital DB** | Data Definition (DDL) | Schema design, Tables, Primary & Foreign Keys |
-| 3 | **Online Bookstore** | Data Manipulation (DML) | CRUD operations (Insert, Update, Delete) |
-| 4-5 | **E-Commerce DB** | Data Retrieval & Filtering | WHERE, Clauses, Operators, & Aggregations |
-| 6 | **Student DB** | Relationship Management | INNER, LEFT, RIGHT Joins & String Functions |
-| 7 | **Company DB** | Advanced SQL & Automation | Subqueries, CTEs, Views, and Triggers |
+| 1 | **Hospital DB** | Data Definition (DDL) | Schema design, Tables, Primary & Foreign Keys |
+| 2 | **Online Bookstore** | Data Manipulation (DML) | CRUD operations (Insert, Update, Delete) |
+| 3-4 | **E-Commerce DB** | Data Retrieval & Filtering | WHERE, Clauses, Operators, & Aggregations |
+| 5| **Student DB** | Relationship Management | INNER, LEFT, RIGHT Joins & String Functions |
+| 6-7 | **Company DB** | Advanced SQL & Automation | Subqueries, CTEs, Views, and Triggers |
 
 ---
 
